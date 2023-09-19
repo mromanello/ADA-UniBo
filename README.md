@@ -1,8 +1,8 @@
 # ADA-UniBo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-UniBo/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-UniBo/main)
 
-Teaching materials for the Applied Data Analysis laboratory (2023) of the Digital Humanities and Digital Knowledge degree at the University of Bologna.
+Teaching materials for the [Applied Data Analysis laboratory (2023)](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498219) of the [Digital Humanities and Digital Knowledge degree](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the University of Bologna.
 
 ## Academic Year 2023/2024
 
