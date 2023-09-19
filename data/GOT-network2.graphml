@@ -1,0 +1,1705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d3" for="node" attr.name="modularity_class" attr.type="long"/>
+<key id="d2" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d1" for="node" attr.name="weighted_degree" attr.type="long"/>
+<key id="d0" for="node" attr.name="degree" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Aemon">
+  <data key="d0">5</data>
+  <data key="d1">74</data>
+  <data key="d2">0.004622508177397137</data>
+  <data key="d3">1</data>
+</node>
+<node id="Grenn">
+  <data key="d0">4</data>
+  <data key="d1">81</data>
+  <data key="d2">5.989817310572027e-05</data>
+  <data key="d3">1</data>
+</node>
+<node id="Samwell">
+  <data key="d0">15</data>
+  <data key="d1">282</data>
+  <data key="d2">0.03227262859511145</data>
+  <data key="d3">1</data>
+</node>
+<node id="Aerys">
+  <data key="d0">4</data>
+  <data key="d1">37</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Jaime">
+  <data key="d0">24</data>
+  <data key="d1">372</data>
+  <data key="d2">0.09994344156136246</data>
+  <data key="d3">0</data>
+</node>
+<node id="Robert">
+  <data key="d0">18</data>
+  <data key="d1">128</data>
+  <data key="d2">0.2094523840293194</data>
+  <data key="d3">3</data>
+</node>
+<node id="Tyrion">
+  <data key="d0">36</data>
+  <data key="d1">551</data>
+  <data key="d2">0.19791284320277353</data>
+  <data key="d3">0</data>
+</node>
+<node id="Tywin">
+  <data key="d0">22</data>
+  <data key="d1">204</data>
+  <data key="d2">0.06553840423231058</data>
+  <data key="d3">0</data>
+</node>
+<node id="Alliser">
+  <data key="d0">3</data>
+  <data key="d1">29</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Mance">
+  <data key="d0">12</data>
+  <data key="d1">160</data>
+  <data key="d2">0.007275961371756524</data>
+  <data key="d3">1</data>
+</node>
+<node id="Amory">
+  <data key="d0">1</data>
+  <data key="d1">5</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Oberyn">
+  <data key="d0">7</data>
+  <data key="d1">76</data>
+  <data key="d2">0.01958014232946847</data>
+  <data key="d3">0</data>
+</node>
+<node id="Arya">
+  <data key="d0">19</data>
+  <data key="d1">269</data>
+  <data key="d2">0.07960711308183888</data>
+  <data key="d3">2</data>
+</node>
+<node id="Anguy">
+  <data key="d0">2</data>
+  <data key="d1">15</data>
+  <data key="d2">0.0</data>
+  <data key="d3">4</data>
+</node>
+<node id="Beric">
+  <data key="d0">6</data>
+  <data key="d1">75</data>
+  <data key="d2">0.0006091214266627511</data>
+  <data key="d3">4</data>
+</node>
+<node id="Bran">
+  <data key="d0">14</data>
+  <data key="d1">344</data>
+  <data key="d2">0.06301659941786954</data>
+  <data key="d3">2</data>
+</node>
+<node id="Brynden">
+  <data key="d0">8</data>
+  <data key="d1">55</data>
+  <data key="d2">0.004727134574764742</data>
+  <data key="d3">2</data>
+</node>
+<node id="Cersei">
+  <data key="d0">20</data>
+  <data key="d1">226</data>
+  <data key="d2">0.02674643287824232</data>
+  <data key="d3">2</data>
+</node>
+<node id="Gendry">
+  <data key="d0">4</data>
+  <data key="d1">59</data>
+  <data key="d2">0.0</data>
+  <data key="d3">4</data>
+</node>
+<node id="Gregor">
+  <data key="d0">12</data>
+  <data key="d1">117</data>
+  <data key="d2">0.005879915417737236</data>
+  <data key="d3">0</data>
+</node>
+<node id="Joffrey">
+  <data key="d0">18</data>
+  <data key="d1">255</data>
+  <data key="d2">0.025434099443917696</data>
+  <data key="d3">0</data>
+</node>
+<node id="Jon">
+  <data key="d0">26</data>
+  <data key="d1">442</data>
+  <data key="d2">0.22996466368473173</data>
+  <data key="d3">1</data>
+</node>
+<node id="Rickon">
+  <data key="d0">6</data>
+  <data key="d1">81</data>
+  <data key="d2">0.0007626320968639029</data>
+  <data key="d3">2</data>
+</node>
+<node id="Roose">
+  <data key="d0">4</data>
+  <data key="d1">17</data>
+  <data key="d2">0.0002629599012559427</data>
+  <data key="d3">2</data>
+</node>
+<node id="Sandor">
+  <data key="d0">13</data>
+  <data key="d1">137</data>
+  <data key="d2">0.014162278987154626</data>
+  <data key="d3">0</data>
+</node>
+<node id="Thoros">
+  <data key="d0">5</data>
+  <data key="d1">60</data>
+  <data key="d2">0.0019261823273239152</data>
+  <data key="d3">4</data>
+</node>
+<node id="Balon">
+  <data key="d0">6</data>
+  <data key="d1">29</data>
+  <data key="d2">0.0006281164805527878</data>
+  <data key="d3">0</data>
+</node>
+<node id="Loras">
+  <data key="d0">9</data>
+  <data key="d1">76</data>
+  <data key="d2">0.003780752291533962</data>
+  <data key="d3">0</data>
+</node>
+<node id="Belwas">
+  <data key="d0">4</data>
+  <data key="d1">67</data>
+  <data key="d2">0.018867924528301886</data>
+  <data key="d3">3</data>
+</node>
+<node id="Barristan">
+  <data key="d0">6</data>
+  <data key="d1">63</data>
+  <data key="d2">0.04011407489067884</data>
+  <data key="d3">3</data>
+</node>
+<node id="Illyrio">
+  <data key="d0">1</data>
+  <data key="d1">10</data>
+  <data key="d2">0.0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Hodor">
+  <data key="d0">4</data>
+  <data key="d1">177</data>
+  <data key="d2">0.0021937273446681065</data>
+  <data key="d3">1</data>
+</node>
+<node id="Jojen">
+  <data key="d0">4</data>
+  <data key="d1">125</data>
+  <data key="d2">0.0004064518889316733</data>
+  <data key="d3">1</data>
+</node>
+<node id="Luwin">
+  <data key="d0">2</data>
+  <data key="d1">8</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Meera">
+  <data key="d0">5</data>
+  <data key="d1">139</data>
+  <data key="d2">0.0019922569692430686</data>
+  <data key="d3">1</data>
+</node>
+<node id="Nan">
+  <data key="d0">2</data>
+  <data key="d1">18</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Theon">
+  <data key="d0">4</data>
+  <data key="d1">38</data>
+  <data key="d2">0.00047177590304274953</data>
+  <data key="d3">2</data>
+</node>
+<node id="Brienne">
+  <data key="d0">7</data>
+  <data key="d1">122</data>
+  <data key="d2">0.0015376001520469229</data>
+  <data key="d3">2</data>
+</node>
+<node id="Bronn">
+  <data key="d0">4</data>
+  <data key="d1">59</data>
+  <data key="d2">0.00010482180293501046</data>
+  <data key="d3">0</data>
+</node>
+<node id="Podrick">
+  <data key="d0">5</data>
+  <data key="d1">64</data>
+  <data key="d2">0.0008358985235471674</data>
+  <data key="d3">0</data>
+</node>
+<node id="Lothar">
+  <data key="d0">5</data>
+  <data key="d1">34</data>
+  <data key="d2">0.0006600525898733143</data>
+  <data key="d3">2</data>
+</node>
+<node id="Walder">
+  <data key="d0">8</data>
+  <data key="d1">87</data>
+  <data key="d2">0.0032731813973401044</data>
+  <data key="d3">2</data>
+</node>
+<node id="Catelyn">
+  <data key="d0">18</data>
+  <data key="d1">184</data>
+  <data key="d2">0.04890588265764755</data>
+  <data key="d3">2</data>
+</node>
+<node id="Edmure">
+  <data key="d0">8</data>
+  <data key="d1">98</data>
+  <data key="d2">0.0063172332740347534</data>
+  <data key="d3">2</data>
+</node>
+<node id="Hoster">
+  <data key="d0">3</data>
+  <data key="d1">24</data>
+  <data key="d2">0.0002426336765959408</data>
+  <data key="d3">2</data>
+</node>
+<node id="Jeyne">
+  <data key="d0">2</data>
+  <data key="d1">28</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Lysa">
+  <data key="d0">10</data>
+  <data key="d1">108</data>
+  <data key="d2">0.015215156305177053</data>
+  <data key="d3">2</data>
+</node>
+<node id="Petyr">
+  <data key="d0">7</data>
+  <data key="d1">89</data>
+  <data key="d2">0.0011502139845250673</data>
+  <data key="d3">2</data>
+</node>
+<node id="Robb">
+  <data key="d0">25</data>
+  <data key="d1">342</data>
+  <data key="d2">0.1269644713830151</data>
+  <data key="d3">2</data>
+</node>
+<node id="Roslin">
+  <data key="d0">4</data>
+  <data key="d1">32</data>
+  <data key="d2">6.751960581039384e-05</data>
+  <data key="d3">2</data>
+</node>
+<node id="Sansa">
+  <data key="d0">26</data>
+  <data key="d1">383</data>
+  <data key="d2">0.12672031668498004</data>
+  <data key="d3">2</data>
+</node>
+<node id="Stannis">
+  <data key="d0">14</data>
+  <data key="d1">146</data>
+  <data key="d2">0.1026998617273264</data>
+  <data key="d3">1</data>
+</node>
+<node id="Elia">
+  <data key="d0">5</data>
+  <data key="d1">29</data>
+  <data key="d2">0.002996853410630337</data>
+  <data key="d3">0</data>
+</node>
+<node id="Ilyn">
+  <data key="d0">6</data>
+  <data key="d1">32</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Meryn">
+  <data key="d0">7</data>
+  <data key="d1">47</data>
+  <data key="d2">0.00025900705642512993</data>
+  <data key="d3">0</data>
+</node>
+<node id="Pycelle">
+  <data key="d0">4</data>
+  <data key="d1">24</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Shae">
+  <data key="d0">5</data>
+  <data key="d1">45</data>
+  <data key="d2">0.0012523948930099663</data>
+  <data key="d3">0</data>
+</node>
+<node id="Varys">
+  <data key="d0">7</data>
+  <data key="d1">49</data>
+  <data key="d2">0.0009094137867722772</data>
+  <data key="d3">0</data>
+</node>
+<node id="Craster">
+  <data key="d0">5</data>
+  <data key="d1">75</data>
+  <data key="d2">0.018867924528301886</data>
+  <data key="d3">1</data>
+</node>
+<node id="Karl">
+  <data key="d0">1</data>
+  <data key="d1">6</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Daario">
+  <data key="d0">4</data>
+  <data key="d1">30</data>
+  <data key="d2">5.989817310572027e-05</data>
+  <data key="d3">3</data>
+</node>
+<node id="Drogo">
+  <data key="d0">4</data>
+  <data key="d1">35</data>
+  <data key="d2">5.989817310572027e-05</data>
+  <data key="d3">3</data>
+</node>
+<node id="Irri">
+  <data key="d0">4</data>
+  <data key="d1">33</data>
+  <data key="d2">0.00017969451931716083</data>
+  <data key="d3">3</data>
+</node>
+<node id="Daenerys">
+  <data key="d0">14</data>
+  <data key="d1">232</data>
+  <data key="d2">0.15720345212054956</data>
+  <data key="d3">3</data>
+</node>
+<node id="Aegon">
+  <data key="d0">1</data>
+  <data key="d1">8</data>
+  <data key="d2">0.0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Jorah">
+  <data key="d0">6</data>
+  <data key="d1">89</data>
+  <data key="d2">0.002329891127259132</data>
+  <data key="d3">3</data>
+</node>
+<node id="Kraznys">
+  <data key="d0">1</data>
+  <data key="d1">10</data>
+  <data key="d2">0.0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Missandei">
+  <data key="d0">2</data>
+  <data key="d1">30</data>
+  <data key="d2">0.0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Rakharo">
+  <data key="d0">1</data>
+  <data key="d1">7</data>
+  <data key="d2">0.0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Rhaegar">
+  <data key="d0">6</data>
+  <data key="d1">42</data>
+  <data key="d2">0.007312671807481101</data>
+  <data key="d3">3</data>
+</node>
+<node id="Viserys">
+  <data key="d0">3</data>
+  <data key="d1">19</data>
+  <data key="d2">0.015644391307527945</data>
+  <data key="d3">3</data>
+</node>
+<node id="Worm">
+  <data key="d0">1</data>
+  <data key="d1">14</data>
+  <data key="d2">0.0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Davos">
+  <data key="d0">5</data>
+  <data key="d1">87</data>
+  <data key="d2">0.056064690026954175</data>
+  <data key="d3">1</data>
+</node>
+<node id="Cressen">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Salladhor">
+  <data key="d0">1</data>
+  <data key="d1">16</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Eddard">
+  <data key="d0">12</data>
+  <data key="d1">108</data>
+  <data key="d2">0.019341416465723616</data>
+  <data key="d3">2</data>
+</node>
+<node id="Eddison">
+  <data key="d0">3</data>
+  <data key="d1">24</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Gilly">
+  <data key="d0">4</data>
+  <data key="d1">69</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Qyburn">
+  <data key="d0">1</data>
+  <data key="d1">11</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Renly">
+  <data key="d0">8</data>
+  <data key="d1">55</data>
+  <data key="d2">0.004227926858198188</data>
+  <data key="d3">0</data>
+</node>
+<node id="Tommen">
+  <data key="d0">5</data>
+  <data key="d1">31</data>
+  <data key="d2">0.0006984420191967362</data>
+  <data key="d3">0</data>
+</node>
+<node id="Janos">
+  <data key="d0">6</data>
+  <data key="d1">37</data>
+  <data key="d2">0.02355861153253357</data>
+  <data key="d3">1</data>
+</node>
+<node id="Bowen">
+  <data key="d0">2</data>
+  <data key="d1">11</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Kevan">
+  <data key="d0">6</data>
+  <data key="d1">50</data>
+  <data key="d2">0.019219915043818533</data>
+  <data key="d3">0</data>
+</node>
+<node id="Margaery">
+  <data key="d0">7</data>
+  <data key="d1">96</data>
+  <data key="d2">0.0010973522354777933</data>
+  <data key="d3">0</data>
+</node>
+<node id="Myrcella">
+  <data key="d0">4</data>
+  <data key="d1">18</data>
+  <data key="d2">0.0006235971795124951</data>
+  <data key="d3">0</data>
+</node>
+<node id="Dalla">
+  <data key="d0">3</data>
+  <data key="d1">21</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Melisandre">
+  <data key="d0">4</data>
+  <data key="d1">62</data>
+  <data key="d2">0.00860866854841803</data>
+  <data key="d3">1</data>
+</node>
+<node id="Orell">
+  <data key="d0">1</data>
+  <data key="d1">6</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Qhorin">
+  <data key="d0">5</data>
+  <data key="d1">59</data>
+  <data key="d2">0.0002635519616651692</data>
+  <data key="d3">1</data>
+</node>
+<node id="Rattleshirt">
+  <data key="d0">4</data>
+  <data key="d1">44</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Styr">
+  <data key="d0">2</data>
+  <data key="d1">23</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Val">
+  <data key="d0">4</data>
+  <data key="d1">31</data>
+  <data key="d2">0.005898334987101542</data>
+  <data key="d3">1</data>
+</node>
+<node id="Ygritte">
+  <data key="d0">4</data>
+  <data key="d1">82</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Jon Arryn">
+  <data key="d0">2</data>
+  <data key="d1">11</data>
+  <data key="d2">0.0005764583325230229</data>
+  <data key="d3">3</data>
+</node>
+<node id="Lancel">
+  <data key="d0">1</data>
+  <data key="d1">7</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Olenna">
+  <data key="d0">2</data>
+  <data key="d1">12</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Marillion">
+  <data key="d0">3</data>
+  <data key="d1">23</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Robert Arryn">
+  <data key="d0">3</data>
+  <data key="d1">19</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Ellaria">
+  <data key="d0">2</data>
+  <data key="d1">10</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Mace">
+  <data key="d0">3</data>
+  <data key="d1">20</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Rickard">
+  <data key="d0">2</data>
+  <data key="d1">11</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Ramsay">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Chataya">
+  <data key="d0">2</data>
+  <data key="d1">9</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Shireen">
+  <data key="d0">1</data>
+  <data key="d1">5</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1</data>
+</node>
+<node id="Doran">
+  <data key="d0">1</data>
+  <data key="d1">5</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Walton">
+  <data key="d0">1</data>
+  <data key="d1">10</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0</data>
+</node>
+<edge source="Aemon" target="Grenn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Aemon" target="Samwell">
+  <data key="d4">31</data>
+</edge>
+<edge source="Aemon" target="Jon">
+  <data key="d4">30</data>
+</edge>
+<edge source="Aemon" target="Robert">
+  <data key="d4">4</data>
+</edge>
+<edge source="Aemon" target="Stannis">
+  <data key="d4">4</data>
+</edge>
+<edge source="Grenn" target="Eddison">
+  <data key="d4">8</data>
+</edge>
+<edge source="Grenn" target="Jon">
+  <data key="d4">25</data>
+</edge>
+<edge source="Grenn" target="Samwell">
+  <data key="d4">43</data>
+</edge>
+<edge source="Samwell" target="Bran">
+  <data key="d4">11</data>
+</edge>
+<edge source="Samwell" target="Jojen">
+  <data key="d4">11</data>
+</edge>
+<edge source="Samwell" target="Jon">
+  <data key="d4">52</data>
+</edge>
+<edge source="Samwell" target="Meera">
+  <data key="d4">7</data>
+</edge>
+<edge source="Samwell" target="Melisandre">
+  <data key="d4">5</data>
+</edge>
+<edge source="Samwell" target="Bowen">
+  <data key="d4">6</data>
+</edge>
+<edge source="Samwell" target="Craster">
+  <data key="d4">34</data>
+</edge>
+<edge source="Samwell" target="Eddison">
+  <data key="d4">12</data>
+</edge>
+<edge source="Samwell" target="Gilly">
+  <data key="d4">36</data>
+</edge>
+<edge source="Samwell" target="Janos">
+  <data key="d4">6</data>
+</edge>
+<edge source="Samwell" target="Mance">
+  <data key="d4">10</data>
+</edge>
+<edge source="Samwell" target="Qhorin">
+  <data key="d4">5</data>
+</edge>
+<edge source="Samwell" target="Stannis">
+  <data key="d4">13</data>
+</edge>
+<edge source="Aerys" target="Jaime">
+  <data key="d4">18</data>
+</edge>
+<edge source="Aerys" target="Robert">
+  <data key="d4">6</data>
+</edge>
+<edge source="Aerys" target="Tyrion">
+  <data key="d4">5</data>
+</edge>
+<edge source="Aerys" target="Tywin">
+  <data key="d4">8</data>
+</edge>
+<edge source="Jaime" target="Arya">
+  <data key="d4">11</data>
+</edge>
+<edge source="Jaime" target="Catelyn">
+  <data key="d4">19</data>
+</edge>
+<edge source="Jaime" target="Cersei">
+  <data key="d4">36</data>
+</edge>
+<edge source="Jaime" target="Eddard">
+  <data key="d4">6</data>
+</edge>
+<edge source="Jaime" target="Balon">
+  <data key="d4">6</data>
+</edge>
+<edge source="Jaime" target="Barristan">
+  <data key="d4">4</data>
+</edge>
+<edge source="Jaime" target="Brienne">
+  <data key="d4">88</data>
+</edge>
+<edge source="Jaime" target="Edmure">
+  <data key="d4">5</data>
+</edge>
+<edge source="Jaime" target="Elia">
+  <data key="d4">4</data>
+</edge>
+<edge source="Jaime" target="Gregor">
+  <data key="d4">6</data>
+</edge>
+<edge source="Jaime" target="Joffrey">
+  <data key="d4">15</data>
+</edge>
+<edge source="Jaime" target="Loras">
+  <data key="d4">16</data>
+</edge>
+<edge source="Jaime" target="Meryn">
+  <data key="d4">11</data>
+</edge>
+<edge source="Jaime" target="Qyburn">
+  <data key="d4">11</data>
+</edge>
+<edge source="Jaime" target="Renly">
+  <data key="d4">7</data>
+</edge>
+<edge source="Jaime" target="Robert">
+  <data key="d4">17</data>
+</edge>
+<edge source="Jaime" target="Stannis">
+  <data key="d4">5</data>
+</edge>
+<edge source="Jaime" target="Tommen">
+  <data key="d4">8</data>
+</edge>
+<edge source="Jaime" target="Tyrion">
+  <data key="d4">31</data>
+</edge>
+<edge source="Jaime" target="Robb">
+  <data key="d4">15</data>
+</edge>
+<edge source="Jaime" target="Sansa">
+  <data key="d4">10</data>
+</edge>
+<edge source="Jaime" target="Tywin">
+  <data key="d4">13</data>
+</edge>
+<edge source="Jaime" target="Walton">
+  <data key="d4">10</data>
+</edge>
+<edge source="Robert" target="Arya">
+  <data key="d4">4</data>
+</edge>
+<edge source="Robert" target="Cersei">
+  <data key="d4">16</data>
+</edge>
+<edge source="Robert" target="Daenerys">
+  <data key="d4">5</data>
+</edge>
+<edge source="Robert" target="Eddard">
+  <data key="d4">10</data>
+</edge>
+<edge source="Robert" target="Jon">
+  <data key="d4">5</data>
+</edge>
+<edge source="Robert" target="Jon Arryn">
+  <data key="d4">6</data>
+</edge>
+<edge source="Robert" target="Rhaegar">
+  <data key="d4">6</data>
+</edge>
+<edge source="Robert" target="Barristan">
+  <data key="d4">5</data>
+</edge>
+<edge source="Robert" target="Renly">
+  <data key="d4">4</data>
+</edge>
+<edge source="Robert" target="Stannis">
+  <data key="d4">5</data>
+</edge>
+<edge source="Robert" target="Thoros">
+  <data key="d4">4</data>
+</edge>
+<edge source="Robert" target="Sandor">
+  <data key="d4">6</data>
+</edge>
+<edge source="Robert" target="Sansa">
+  <data key="d4">5</data>
+</edge>
+<edge source="Robert" target="Tyrion">
+  <data key="d4">9</data>
+</edge>
+<edge source="Robert" target="Tywin">
+  <data key="d4">11</data>
+</edge>
+<edge source="Tyrion" target="Arya">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Catelyn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Cersei">
+  <data key="d4">46</data>
+</edge>
+<edge source="Tyrion" target="Joffrey">
+  <data key="d4">54</data>
+</edge>
+<edge source="Tyrion" target="Lysa">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Myrcella">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tyrion" target="Robb">
+  <data key="d4">12</data>
+</edge>
+<edge source="Tyrion" target="Sansa">
+  <data key="d4">77</data>
+</edge>
+<edge source="Tyrion" target="Balon">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tyrion" target="Bronn">
+  <data key="d4">31</data>
+</edge>
+<edge source="Tyrion" target="Chataya">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Doran">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Elia">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Ellaria">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tyrion" target="Gregor">
+  <data key="d4">22</data>
+</edge>
+<edge source="Tyrion" target="Ilyn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Janos">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Kevan">
+  <data key="d4">11</data>
+</edge>
+<edge source="Tyrion" target="Loras">
+  <data key="d4">6</data>
+</edge>
+<edge source="Tyrion" target="Mace">
+  <data key="d4">9</data>
+</edge>
+<edge source="Tyrion" target="Margaery">
+  <data key="d4">7</data>
+</edge>
+<edge source="Tyrion" target="Meryn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tyrion" target="Oberyn">
+  <data key="d4">25</data>
+</edge>
+<edge source="Tyrion" target="Petyr">
+  <data key="d4">12</data>
+</edge>
+<edge source="Tyrion" target="Podrick">
+  <data key="d4">28</data>
+</edge>
+<edge source="Tyrion" target="Pycelle">
+  <data key="d4">11</data>
+</edge>
+<edge source="Tyrion" target="Renly">
+  <data key="d4">6</data>
+</edge>
+<edge source="Tyrion" target="Sandor">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tyrion" target="Shae">
+  <data key="d4">21</data>
+</edge>
+<edge source="Tyrion" target="Stannis">
+  <data key="d4">6</data>
+</edge>
+<edge source="Tyrion" target="Varys">
+  <data key="d4">18</data>
+</edge>
+<edge source="Tyrion" target="Tywin">
+  <data key="d4">39</data>
+</edge>
+<edge source="Tyrion" target="Viserys">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tywin" target="Lysa">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tywin" target="Robb">
+  <data key="d4">12</data>
+</edge>
+<edge source="Tywin" target="Balon">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tywin" target="Brynden">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tywin" target="Cersei">
+  <data key="d4">16</data>
+</edge>
+<edge source="Tywin" target="Gregor">
+  <data key="d4">7</data>
+</edge>
+<edge source="Tywin" target="Joffrey">
+  <data key="d4">13</data>
+</edge>
+<edge source="Tywin" target="Kevan">
+  <data key="d4">14</data>
+</edge>
+<edge source="Tywin" target="Mace">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tywin" target="Oberyn">
+  <data key="d4">6</data>
+</edge>
+<edge source="Tywin" target="Petyr">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tywin" target="Podrick">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tywin" target="Pycelle">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tywin" target="Stannis">
+  <data key="d4">15</data>
+</edge>
+<edge source="Tywin" target="Tommen">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tywin" target="Val">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tywin" target="Varys">
+  <data key="d4">6</data>
+</edge>
+<edge source="Tywin" target="Walder">
+  <data key="d4">4</data>
+</edge>
+<edge source="Alliser" target="Mance">
+  <data key="d4">5</data>
+</edge>
+<edge source="Alliser" target="Janos">
+  <data key="d4">9</data>
+</edge>
+<edge source="Alliser" target="Jon">
+  <data key="d4">15</data>
+</edge>
+<edge source="Mance" target="Janos">
+  <data key="d4">4</data>
+</edge>
+<edge source="Mance" target="Jon">
+  <data key="d4">69</data>
+</edge>
+<edge source="Mance" target="Craster">
+  <data key="d4">11</data>
+</edge>
+<edge source="Mance" target="Dalla">
+  <data key="d4">8</data>
+</edge>
+<edge source="Mance" target="Gilly">
+  <data key="d4">7</data>
+</edge>
+<edge source="Mance" target="Qhorin">
+  <data key="d4">10</data>
+</edge>
+<edge source="Mance" target="Rattleshirt">
+  <data key="d4">9</data>
+</edge>
+<edge source="Mance" target="Styr">
+  <data key="d4">7</data>
+</edge>
+<edge source="Mance" target="Val">
+  <data key="d4">8</data>
+</edge>
+<edge source="Mance" target="Ygritte">
+  <data key="d4">12</data>
+</edge>
+<edge source="Amory" target="Oberyn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Oberyn" target="Gregor">
+  <data key="d4">24</data>
+</edge>
+<edge source="Oberyn" target="Joffrey">
+  <data key="d4">4</data>
+</edge>
+<edge source="Oberyn" target="Ellaria">
+  <data key="d4">6</data>
+</edge>
+<edge source="Oberyn" target="Mace">
+  <data key="d4">6</data>
+</edge>
+<edge source="Arya" target="Anguy">
+  <data key="d4">11</data>
+</edge>
+<edge source="Arya" target="Beric">
+  <data key="d4">23</data>
+</edge>
+<edge source="Arya" target="Bran">
+  <data key="d4">9</data>
+</edge>
+<edge source="Arya" target="Brynden">
+  <data key="d4">6</data>
+</edge>
+<edge source="Arya" target="Cersei">
+  <data key="d4">5</data>
+</edge>
+<edge source="Arya" target="Gendry">
+  <data key="d4">43</data>
+</edge>
+<edge source="Arya" target="Gregor">
+  <data key="d4">7</data>
+</edge>
+<edge source="Arya" target="Joffrey">
+  <data key="d4">6</data>
+</edge>
+<edge source="Arya" target="Jon">
+  <data key="d4">7</data>
+</edge>
+<edge source="Arya" target="Rickon">
+  <data key="d4">8</data>
+</edge>
+<edge source="Arya" target="Roose">
+  <data key="d4">5</data>
+</edge>
+<edge source="Arya" target="Sandor">
+  <data key="d4">46</data>
+</edge>
+<edge source="Arya" target="Thoros">
+  <data key="d4">18</data>
+</edge>
+<edge source="Arya" target="Eddard">
+  <data key="d4">18</data>
+</edge>
+<edge source="Arya" target="Robb">
+  <data key="d4">15</data>
+</edge>
+<edge source="Arya" target="Sansa">
+  <data key="d4">22</data>
+</edge>
+<edge source="Anguy" target="Beric">
+  <data key="d4">4</data>
+</edge>
+<edge source="Beric" target="Gendry">
+  <data key="d4">4</data>
+</edge>
+<edge source="Beric" target="Thoros">
+  <data key="d4">21</data>
+</edge>
+<edge source="Beric" target="Eddard">
+  <data key="d4">8</data>
+</edge>
+<edge source="Beric" target="Sandor">
+  <data key="d4">15</data>
+</edge>
+<edge source="Bran" target="Hodor">
+  <data key="d4">96</data>
+</edge>
+<edge source="Bran" target="Jojen">
+  <data key="d4">46</data>
+</edge>
+<edge source="Bran" target="Jon">
+  <data key="d4">12</data>
+</edge>
+<edge source="Bran" target="Luwin">
+  <data key="d4">4</data>
+</edge>
+<edge source="Bran" target="Meera">
+  <data key="d4">54</data>
+</edge>
+<edge source="Bran" target="Nan">
+  <data key="d4">14</data>
+</edge>
+<edge source="Bran" target="Rickon">
+  <data key="d4">35</data>
+</edge>
+<edge source="Bran" target="Theon">
+  <data key="d4">11</data>
+</edge>
+<edge source="Bran" target="Catelyn">
+  <data key="d4">4</data>
+</edge>
+<edge source="Bran" target="Eddard">
+  <data key="d4">15</data>
+</edge>
+<edge source="Bran" target="Robb">
+  <data key="d4">23</data>
+</edge>
+<edge source="Bran" target="Sansa">
+  <data key="d4">10</data>
+</edge>
+<edge source="Brynden" target="Lothar">
+  <data key="d4">4</data>
+</edge>
+<edge source="Brynden" target="Walder">
+  <data key="d4">5</data>
+</edge>
+<edge source="Brynden" target="Catelyn">
+  <data key="d4">8</data>
+</edge>
+<edge source="Brynden" target="Edmure">
+  <data key="d4">7</data>
+</edge>
+<edge source="Brynden" target="Rickard">
+  <data key="d4">4</data>
+</edge>
+<edge source="Brynden" target="Robb">
+  <data key="d4">17</data>
+</edge>
+<edge source="Cersei" target="Catelyn">
+  <data key="d4">4</data>
+</edge>
+<edge source="Cersei" target="Brienne">
+  <data key="d4">5</data>
+</edge>
+<edge source="Cersei" target="Bronn">
+  <data key="d4">4</data>
+</edge>
+<edge source="Cersei" target="Elia">
+  <data key="d4">4</data>
+</edge>
+<edge source="Cersei" target="Gregor">
+  <data key="d4">6</data>
+</edge>
+<edge source="Cersei" target="Ilyn">
+  <data key="d4">7</data>
+</edge>
+<edge source="Cersei" target="Joffrey">
+  <data key="d4">23</data>
+</edge>
+<edge source="Cersei" target="Meryn">
+  <data key="d4">10</data>
+</edge>
+<edge source="Cersei" target="Pycelle">
+  <data key="d4">4</data>
+</edge>
+<edge source="Cersei" target="Sandor">
+  <data key="d4">6</data>
+</edge>
+<edge source="Cersei" target="Shae">
+  <data key="d4">4</data>
+</edge>
+<edge source="Cersei" target="Varys">
+  <data key="d4">4</data>
+</edge>
+<edge source="Cersei" target="Eddard">
+  <data key="d4">6</data>
+</edge>
+<edge source="Cersei" target="Lysa">
+  <data key="d4">4</data>
+</edge>
+<edge source="Cersei" target="Sansa">
+  <data key="d4">16</data>
+</edge>
+<edge source="Gendry" target="Thoros">
+  <data key="d4">7</data>
+</edge>
+<edge source="Gendry" target="Sandor">
+  <data key="d4">5</data>
+</edge>
+<edge source="Gregor" target="Bronn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Gregor" target="Elia">
+  <data key="d4">9</data>
+</edge>
+<edge source="Gregor" target="Ilyn">
+  <data key="d4">7</data>
+</edge>
+<edge source="Gregor" target="Meryn">
+  <data key="d4">7</data>
+</edge>
+<edge source="Gregor" target="Sandor">
+  <data key="d4">12</data>
+</edge>
+<edge source="Gregor" target="Joffrey">
+  <data key="d4">5</data>
+</edge>
+<edge source="Joffrey" target="Ilyn">
+  <data key="d4">4</data>
+</edge>
+<edge source="Joffrey" target="Kevan">
+  <data key="d4">8</data>
+</edge>
+<edge source="Joffrey" target="Loras">
+  <data key="d4">7</data>
+</edge>
+<edge source="Joffrey" target="Margaery">
+  <data key="d4">28</data>
+</edge>
+<edge source="Joffrey" target="Meryn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Joffrey" target="Myrcella">
+  <data key="d4">5</data>
+</edge>
+<edge source="Joffrey" target="Sandor">
+  <data key="d4">14</data>
+</edge>
+<edge source="Joffrey" target="Stannis">
+  <data key="d4">10</data>
+</edge>
+<edge source="Joffrey" target="Tommen">
+  <data key="d4">9</data>
+</edge>
+<edge source="Joffrey" target="Robb">
+  <data key="d4">10</data>
+</edge>
+<edge source="Joffrey" target="Sansa">
+  <data key="d4">35</data>
+</edge>
+<edge source="Jon" target="Eddard">
+  <data key="d4">8</data>
+</edge>
+<edge source="Jon" target="Craster">
+  <data key="d4">7</data>
+</edge>
+<edge source="Jon" target="Dalla">
+  <data key="d4">6</data>
+</edge>
+<edge source="Jon" target="Eddison">
+  <data key="d4">4</data>
+</edge>
+<edge source="Jon" target="Gilly">
+  <data key="d4">9</data>
+</edge>
+<edge source="Jon" target="Janos">
+  <data key="d4">8</data>
+</edge>
+<edge source="Jon" target="Meera">
+  <data key="d4">4</data>
+</edge>
+<edge source="Jon" target="Melisandre">
+  <data key="d4">7</data>
+</edge>
+<edge source="Jon" target="Orell">
+  <data key="d4">6</data>
+</edge>
+<edge source="Jon" target="Qhorin">
+  <data key="d4">31</data>
+</edge>
+<edge source="Jon" target="Rattleshirt">
+  <data key="d4">20</data>
+</edge>
+<edge source="Jon" target="Stannis">
+  <data key="d4">9</data>
+</edge>
+<edge source="Jon" target="Styr">
+  <data key="d4">16</data>
+</edge>
+<edge source="Jon" target="Theon">
+  <data key="d4">8</data>
+</edge>
+<edge source="Jon" target="Val">
+  <data key="d4">12</data>
+</edge>
+<edge source="Jon" target="Ygritte">
+  <data key="d4">54</data>
+</edge>
+<edge source="Jon" target="Robb">
+  <data key="d4">14</data>
+</edge>
+<edge source="Jon" target="Sansa">
+  <data key="d4">4</data>
+</edge>
+<edge source="Rickon" target="Eddard">
+  <data key="d4">8</data>
+</edge>
+<edge source="Rickon" target="Theon">
+  <data key="d4">8</data>
+</edge>
+<edge source="Rickon" target="Robb">
+  <data key="d4">15</data>
+</edge>
+<edge source="Rickon" target="Sansa">
+  <data key="d4">7</data>
+</edge>
+<edge source="Roose" target="Catelyn">
+  <data key="d4">4</data>
+</edge>
+<edge source="Roose" target="Robb">
+  <data key="d4">4</data>
+</edge>
+<edge source="Roose" target="Brienne">
+  <data key="d4">4</data>
+</edge>
+<edge source="Sandor" target="Eddard">
+  <data key="d4">5</data>
+</edge>
+<edge source="Sandor" target="Ilyn">
+  <data key="d4">4</data>
+</edge>
+<edge source="Sandor" target="Meryn">
+  <data key="d4">4</data>
+</edge>
+<edge source="Sandor" target="Thoros">
+  <data key="d4">10</data>
+</edge>
+<edge source="Sandor" target="Sansa">
+  <data key="d4">6</data>
+</edge>
+<edge source="Balon" target="Loras">
+  <data key="d4">4</data>
+</edge>
+<edge source="Balon" target="Robb">
+  <data key="d4">6</data>
+</edge>
+<edge source="Balon" target="Stannis">
+  <data key="d4">4</data>
+</edge>
+<edge source="Loras" target="Brienne">
+  <data key="d4">7</data>
+</edge>
+<edge source="Loras" target="Margaery">
+  <data key="d4">9</data>
+</edge>
+<edge source="Loras" target="Olenna">
+  <data key="d4">5</data>
+</edge>
+<edge source="Loras" target="Renly">
+  <data key="d4">8</data>
+</edge>
+<edge source="Loras" target="Sansa">
+  <data key="d4">14</data>
+</edge>
+<edge source="Belwas" target="Barristan">
+  <data key="d4">18</data>
+</edge>
+<edge source="Belwas" target="Illyrio">
+  <data key="d4">10</data>
+</edge>
+<edge source="Belwas" target="Daenerys">
+  <data key="d4">26</data>
+</edge>
+<edge source="Belwas" target="Jorah">
+  <data key="d4">13</data>
+</edge>
+<edge source="Barristan" target="Daenerys">
+  <data key="d4">20</data>
+</edge>
+<edge source="Barristan" target="Jorah">
+  <data key="d4">11</data>
+</edge>
+<edge source="Barristan" target="Rhaegar">
+  <data key="d4">5</data>
+</edge>
+<edge source="Hodor" target="Jojen">
+  <data key="d4">35</data>
+</edge>
+<edge source="Hodor" target="Meera">
+  <data key="d4">41</data>
+</edge>
+<edge source="Hodor" target="Robb">
+  <data key="d4">5</data>
+</edge>
+<edge source="Jojen" target="Meera">
+  <data key="d4">33</data>
+</edge>
+<edge source="Luwin" target="Nan">
+  <data key="d4">4</data>
+</edge>
+<edge source="Theon" target="Robb">
+  <data key="d4">11</data>
+</edge>
+<edge source="Brienne" target="Catelyn">
+  <data key="d4">7</data>
+</edge>
+<edge source="Brienne" target="Robb">
+  <data key="d4">6</data>
+</edge>
+<edge source="Brienne" target="Sansa">
+  <data key="d4">5</data>
+</edge>
+<edge source="Bronn" target="Podrick">
+  <data key="d4">19</data>
+</edge>
+<edge source="Podrick" target="Margaery">
+  <data key="d4">4</data>
+</edge>
+<edge source="Podrick" target="Sansa">
+  <data key="d4">8</data>
+</edge>
+<edge source="Lothar" target="Edmure">
+  <data key="d4">4</data>
+</edge>
+<edge source="Lothar" target="Roslin">
+  <data key="d4">4</data>
+</edge>
+<edge source="Lothar" target="Robb">
+  <data key="d4">10</data>
+</edge>
+<edge source="Lothar" target="Walder">
+  <data key="d4">12</data>
+</edge>
+<edge source="Walder" target="Catelyn">
+  <data key="d4">19</data>
+</edge>
+<edge source="Walder" target="Edmure">
+  <data key="d4">9</data>
+</edge>
+<edge source="Walder" target="Robb">
+  <data key="d4">26</data>
+</edge>
+<edge source="Walder" target="Petyr">
+  <data key="d4">6</data>
+</edge>
+<edge source="Walder" target="Roslin">
+  <data key="d4">6</data>
+</edge>
+<edge source="Catelyn" target="Edmure">
+  <data key="d4">16</data>
+</edge>
+<edge source="Catelyn" target="Hoster">
+  <data key="d4">9</data>
+</edge>
+<edge source="Catelyn" target="Jeyne">
+  <data key="d4">10</data>
+</edge>
+<edge source="Catelyn" target="Lysa">
+  <data key="d4">8</data>
+</edge>
+<edge source="Catelyn" target="Petyr">
+  <data key="d4">5</data>
+</edge>
+<edge source="Catelyn" target="Robb">
+  <data key="d4">43</data>
+</edge>
+<edge source="Catelyn" target="Roslin">
+  <data key="d4">6</data>
+</edge>
+<edge source="Catelyn" target="Sansa">
+  <data key="d4">8</data>
+</edge>
+<edge source="Catelyn" target="Stannis">
+  <data key="d4">4</data>
+</edge>
+<edge source="Catelyn" target="Eddard">
+  <data key="d4">5</data>
+</edge>
+<edge source="Edmure" target="Roslin">
+  <data key="d4">16</data>
+</edge>
+<edge source="Edmure" target="Hoster">
+  <data key="d4">9</data>
+</edge>
+<edge source="Edmure" target="Robb">
+  <data key="d4">32</data>
+</edge>
+<edge source="Hoster" target="Lysa">
+  <data key="d4">6</data>
+</edge>
+<edge source="Jeyne" target="Robb">
+  <data key="d4">18</data>
+</edge>
+<edge source="Lysa" target="Jon Arryn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Lysa" target="Marillion">
+  <data key="d4">10</data>
+</edge>
+<edge source="Lysa" target="Petyr">
+  <data key="d4">29</data>
+</edge>
+<edge source="Lysa" target="Robert Arryn">
+  <data key="d4">9</data>
+</edge>
+<edge source="Lysa" target="Sansa">
+  <data key="d4">28</data>
+</edge>
+<edge source="Petyr" target="Robb">
+  <data key="d4">5</data>
+</edge>
+<edge source="Petyr" target="Sansa">
+  <data key="d4">28</data>
+</edge>
+<edge source="Robb" target="Eddard">
+  <data key="d4">13</data>
+</edge>
+<edge source="Robb" target="Ramsay">
+  <data key="d4">4</data>
+</edge>
+<edge source="Robb" target="Rickard">
+  <data key="d4">7</data>
+</edge>
+<edge source="Robb" target="Sansa">
+  <data key="d4">15</data>
+</edge>
+<edge source="Robb" target="Stannis">
+  <data key="d4">4</data>
+</edge>
+<edge source="Sansa" target="Eddard">
+  <data key="d4">6</data>
+</edge>
+<edge source="Sansa" target="Kevan">
+  <data key="d4">5</data>
+</edge>
+<edge source="Sansa" target="Margaery">
+  <data key="d4">36</data>
+</edge>
+<edge source="Sansa" target="Marillion">
+  <data key="d4">9</data>
+</edge>
+<edge source="Sansa" target="Myrcella">
+  <data key="d4">4</data>
+</edge>
+<edge source="Sansa" target="Olenna">
+  <data key="d4">7</data>
+</edge>
+<edge source="Sansa" target="Renly">
+  <data key="d4">4</data>
+</edge>
+<edge source="Sansa" target="Robert Arryn">
+  <data key="d4">6</data>
+</edge>
+<edge source="Sansa" target="Shae">
+  <data key="d4">8</data>
+</edge>
+<edge source="Stannis" target="Davos">
+  <data key="d4">32</data>
+</edge>
+<edge source="Stannis" target="Melisandre">
+  <data key="d4">20</data>
+</edge>
+<edge source="Stannis" target="Renly">
+  <data key="d4">15</data>
+</edge>
+<edge source="Elia" target="Rhaegar">
+  <data key="d4">7</data>
+</edge>
+<edge source="Ilyn" target="Meryn">
+  <data key="d4">5</data>
+</edge>
+<edge source="Pycelle" target="Varys">
+  <data key="d4">4</data>
+</edge>
+<edge source="Shae" target="Chataya">
+  <data key="d4">4</data>
+</edge>
+<edge source="Shae" target="Varys">
+  <data key="d4">8</data>
+</edge>
+<edge source="Varys" target="Kevan">
+  <data key="d4">5</data>
+</edge>
+<edge source="Varys" target="Renly">
+  <data key="d4">4</data>
+</edge>
+<edge source="Craster" target="Karl">
+  <data key="d4">6</data>
+</edge>
+<edge source="Craster" target="Gilly">
+  <data key="d4">17</data>
+</edge>
+<edge source="Daario" target="Drogo">
+  <data key="d4">4</data>
+</edge>
+<edge source="Daario" target="Irri">
+  <data key="d4">5</data>
+</edge>
+<edge source="Daario" target="Daenerys">
+  <data key="d4">14</data>
+</edge>
+<edge source="Daario" target="Jorah">
+  <data key="d4">7</data>
+</edge>
+<edge source="Drogo" target="Daenerys">
+  <data key="d4">18</data>
+</edge>
+<edge source="Drogo" target="Irri">
+  <data key="d4">7</data>
+</edge>
+<edge source="Drogo" target="Jorah">
+  <data key="d4">6</data>
+</edge>
+<edge source="Irri" target="Daenerys">
+  <data key="d4">17</data>
+</edge>
+<edge source="Irri" target="Missandei">
+  <data key="d4">4</data>
+</edge>
+<edge source="Daenerys" target="Aegon">
+  <data key="d4">8</data>
+</edge>
+<edge source="Daenerys" target="Jorah">
+  <data key="d4">47</data>
+</edge>
+<edge source="Daenerys" target="Kraznys">
+  <data key="d4">10</data>
+</edge>
+<edge source="Daenerys" target="Missandei">
+  <data key="d4">26</data>
+</edge>
+<edge source="Daenerys" target="Rakharo">
+  <data key="d4">7</data>
+</edge>
+<edge source="Daenerys" target="Rhaegar">
+  <data key="d4">12</data>
+</edge>
+<edge source="Daenerys" target="Viserys">
+  <data key="d4">8</data>
+</edge>
+<edge source="Daenerys" target="Worm">
+  <data key="d4">14</data>
+</edge>
+<edge source="Jorah" target="Rhaegar">
+  <data key="d4">5</data>
+</edge>
+<edge source="Rhaegar" target="Viserys">
+  <data key="d4">7</data>
+</edge>
+<edge source="Davos" target="Cressen">
+  <data key="d4">4</data>
+</edge>
+<edge source="Davos" target="Salladhor">
+  <data key="d4">16</data>
+</edge>
+<edge source="Davos" target="Melisandre">
+  <data key="d4">30</data>
+</edge>
+<edge source="Davos" target="Shireen">
+  <data key="d4">5</data>
+</edge>
+<edge source="Renly" target="Margaery">
+  <data key="d4">7</data>
+</edge>
+<edge source="Tommen" target="Myrcella">
+  <data key="d4">5</data>
+</edge>
+<edge source="Tommen" target="Margaery">
+  <data key="d4">5</data>
+</edge>
+<edge source="Janos" target="Bowen">
+  <data key="d4">5</data>
+</edge>
+<edge source="Kevan" target="Lancel">
+  <data key="d4">7</data>
+</edge>
+<edge source="Dalla" target="Val">
+  <data key="d4">7</data>
+</edge>
+<edge source="Qhorin" target="Rattleshirt">
+  <data key="d4">6</data>
+</edge>
+<edge source="Qhorin" target="Ygritte">
+  <data key="d4">7</data>
+</edge>
+<edge source="Rattleshirt" target="Ygritte">
+  <data key="d4">9</data>
+</edge>
+<edge source="Marillion" target="Robert Arryn">
+  <data key="d4">4</data>
+</edge>
+</graph></graphml>

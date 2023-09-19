@@ -1,0 +1,16 @@
+jupyter_contrib_nbextensions
+bs4
+pandas
+matplotlib
+seaborn
+csvkit
+scikit-learn
+numpy
+spacy
+nltk
+sqlalchemy
+statsmodels
+bokeh==2.4.3
+networkx
+geopy
+folium
